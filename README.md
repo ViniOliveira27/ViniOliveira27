@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViniOliveira27
 - 👀 I’m interested in  learn
-- 🌱 I’m currently learning PYTHON, JAVA, SQL
+- 🌱 I’m currently learning JAVA SCRIPT and REACT.
 - 💞️ I’m looking to collaborate on 
 personal projects 
 - 📫 How to reach me  
