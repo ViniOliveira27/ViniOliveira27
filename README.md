@@ -14,4 +14,4 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinicius-oliveira27/) 
 
-![Snake animation](https://github.com/ViniOliveira27/ViniOliveira27/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ViniOliveira27/ViniOliveira27/)
