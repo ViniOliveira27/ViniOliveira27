@@ -1,7 +1,7 @@
 
 ## Opa! Eu sou o Vinicius Oliveira, Prazer 🖖🏼 
 
-💻 -- Sou apaixonado pelo mundo da tecnologia
+💻 -- Apaixonado pelo mundo da tecnologia
 
 📚 -- Estudante de Ciência da computação
 
