@@ -22,7 +22,6 @@ Sou um desenvolvedor em transição de carreira, apaixonado por tecnologia e foc
 
 - Aprofundando meus conhecimentos em arquitetura de software (Clean Architecture).
 - Explorando técnicas avançadas de engenharia de prompts e integração com LLMs.
-- [Coloque aqui outra tecnologia que esteja estudando, ex: Docker, testes automatizados, etc.]
 
 ---
 
