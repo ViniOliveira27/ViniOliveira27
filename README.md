@@ -29,4 +29,4 @@ Sou um desenvolvedor em transição de carreira, apaixonado por tecnologia e foc
 ### 📫 Como me encontrar
 
 - **LinkedIn:** [https://www.linkedin.com/in/vinicius-oliveira27/](https://www.linkedin.com/in/vinicius-oliveira27/)
-- **E-mail:** [seu.email@provedor.com]
+- **E-mail:** vinicius.luad@gmail.com
