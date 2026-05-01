@@ -8,7 +8,7 @@ Sou um Desenvolvedor Full Stack apaixonado por engenharia de software e arquitet
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -18,14 +18,17 @@ Sou um Desenvolvedor Full Stack apaixonado por engenharia de software e arquitet
 
 ---
 
-### 🌱 Atualmente estou aprendendo
+### O que estou construindo / aprofundando
 
-- Aprofundando meus conhecimentos em arquitetura de software (Clean Architecture).
-- Explorando técnicas avançadas de engenharia de prompts e integração com LLMs.
+- Arquitetura de Software para sistemas de larga escala (SaaS Multi-tenant, ERPs e Módulos Financeiros/Contábeis).
+
+- Construção de APIs robustas com NestJS e interfaces modernas com Next.js (App Router).
+
+- Engenharia de Prompts e integração nativa com ecossistemas de LLMs.
 
 ---
 
-### 📫 Como me encontrar
+### Como me encontrar
 
 - **LinkedIn:** [https://www.linkedin.com/in/vinicius-oliveira27/](https://www.linkedin.com/in/vinicius-oliveira27/)
 - **E-mail:** vinicius.luad@gmail.com
