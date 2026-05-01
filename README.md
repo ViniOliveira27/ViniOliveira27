@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/vinicius-oliveira27/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
 
-Sou um desenvolvedor em transição de carreira, apaixonado por tecnologia e focado em construir aplicações web modernas e soluções com Inteligência Artificial.
+Sou um Desenvolvedor Full Stack apaixonado por engenharia de software e arquitetura de sistemas. Atualmente, foco na construção de plataformas complexas, SaaS e ERPs altamente escaláveis, unindo boas práticas (Clean Architecture, SOLID) com o desenvolvimento de soluções integradas com Inteligência Artificial.
 
 ---
 
